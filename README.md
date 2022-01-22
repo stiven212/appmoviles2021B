@@ -10,6 +10,7 @@ En la primera página, se muestra información básica de la aplicación, esta p
 
 ![image](https://user-images.githubusercontent.com/58042139/150617338-904b5b68-2cbf-41d9-a066-89a14673825a.png)
 
-La siguiente página permite añadir notas 
+La siguiente página permite añadir notas que se guardan y se muestran en forma de lista 
 
 ![image](https://user-images.githubusercontent.com/58042139/150617343-2231cf4e-44ec-4660-8262-bed79ff854ae.png)
+
